@@ -118,7 +118,9 @@ Members of the community that participate in the process **consent to its curren
 
 ### Roles 
 
-#### Proposer 
+The following role do not reflect all the roles mentioned in the current [Grant Process document](https://github.com/ssbc/grants-process/blob/master/roles.md). I have chosen to focus on those that matter most to the majority of participants.
+
+#### Proposer (Noted Adventurers)
 
 Articulate and write a proposal for a *clear*, *actionable*, *useful*, *well-scoped* project. The project will be done by the proposer themselves and should follow the goals of the grant process. (More on writing good proposals later). Again, by submitting a proposal for review, they consent to the current process.
 
