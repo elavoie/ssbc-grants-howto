@@ -178,7 +178,7 @@ Not all projects are equally amenable to the current process. The first idea you
 
 For technical projects, the best way to find a good one, in my opinion, is to start working on a general direction for improvement from an intuition of a perceived need in the community. The roadblocks that will appear and make it hard to achieve the goal are good candidates for proposals: most likely, *others also stumbled upon them and were blocked for insufficient time and resources to dedicate*.
 
-For cultural projects, I have no personal experience and therefore little credential to talk about them. I would still guess you should start from an intuition of a *missing feeling* in the community experience and translate it into an *artistic medium*. Ask Zach! and Angelina for their own experience.
+For cultural projects, I have no personal experience and therefore little credential to talk about them. I would still guess you should start from an intuition of a *missing feeling* in the community experience and translate it into an *artistic medium*. Ask Zach! and Angelica for their own experience.
 
 Either kinds of project may start as hobbies or activities that may only be useful to you. At that stage they are not good proposals. But you should still share about them in the #ssb-show-and-tell as soon as you have something to show. As you keep going on them and obtain feedback from others, you may find out you are not the only one who has a need for it. At that point, the *common part becomes a great candidate for a project proposal*.
 
